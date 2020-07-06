@@ -11,7 +11,7 @@
 - TypeScript 개념 이해
 
 읽어오기
-- 자바스크립트 개발자를 위한 타입스크립트: https://ahnheejong.gitbook.io/ts-for-jsdev/ (작성이 중단되었지만, 초반 개념을 이해하기 쉽게 잘 정리되어있음)
+- 자바스크립트 개발자를 위한 타입스크립트: https://ahnheejong.gitbook.io/ts-for-jsdev/ (작성이 중단되었지만, 초반 개념을 이해하기 쉽게 잘 정리되어있다)
 - TypeScript-Handbook: https://typescript-kr.github.io/
 - emotion: https://emotion.sh/docs/introduction (공식 문서)
 - 한국에는 styled-components 관련한 문서가 더 많으니, 그것들을 읽고오셔도 됩니다. 기본적인 사용방법은 거의 동일합니다.
