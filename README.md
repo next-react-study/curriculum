@@ -4,11 +4,20 @@
 주 단위로 미션이 주어지며, 업무 시간 종료 후 사내 회의실에서 중간 리뷰 1회, 최종 리뷰 1회씩 진행한다.
 
 ## 1주차 미션
-**크몽 메인화면 클론**  
+**크몽 인박스 페이지 클론**  
+시안: zpl://screen?sid=5e0ac7e872329019f0caf2bc&pid=58ae860b751f43368062d8ed
 
 학습 목표
+- react component 기본 개념 이해
 - CSS in JS 스타일링 개념 이해
-- TypeScript 개념 이해
+- TypeScript 기초 개념 이해
+
+
+참고 사항
+- [create-react-app](https://github.com/facebook/create-react-app)을 이용하여 프로젝트를 시작해주세요.
+- TypeScript를 사용하세요.
+- CSS in JS 라이브러리로는 [emotion](https://emotion.sh/)을 사용하세요. (@emotion/core, @emotion/styled)
+- 기능 구현은 생략하셔도 좋습니다. 최대한 시안과 동일한 룩을 구현해보시고, 시간이 남으실 경우 채팅 입력 등의 기능을 구현해보세요.
 
 읽어오기
 - 자바스크립트 개발자를 위한 타입스크립트: https://ahnheejong.gitbook.io/ts-for-jsdev/ (작성이 중단되었지만, 초반 개념을 이해하기 쉽게 잘 정리되어있다)
